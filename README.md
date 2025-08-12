@@ -59,8 +59,8 @@ L’application sera disponible sur :
 ## 🛠 Personnalisation
 
 * **Vitesse moyenne par défaut** : modifiable dans la section "Paramètres avancés" (panneau rétractable en bas).
-* **Coloration du profil d’altitude** : seuils de pente ajustables dans `main.js`.
-* **Mode vélo par défaut** : assuré via `profile=cycling-regular` dans les requêtes ORS.
+* **Coloration du profil d’altitude** : seuils de pente ajustables
+* **Mode vélo par défaut** : assuré via `profile=cycling` dans les requêtes ORS.
 
 ---
 
@@ -70,7 +70,7 @@ L’application sera disponible sur :
 * [x] Ajouter la **superposition météo pluie** avec un sélecteur horaire.
 * [ ] Mode "impact du vent" sur durée estimée.
 * [ ] Téléchargement GPX optimisé pour GPS Garmin/Wahoo.
-* [-] Export/import des trajets planifiés.
+* [ ] Import des trajets planifiés.
 
 ---
 
